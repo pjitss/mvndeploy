@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Hello Prajeet!</title>
+<title>Hello All!</title>
 </head>
 <body>
 	<h1>Hello working on nexuspull from nexrepoitory</h1>
