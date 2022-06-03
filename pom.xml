@@ -13,7 +13,7 @@
 			<id>nexus-release</id>
             <url>http://192.168.1.34:8081/repository/maven-releases/</url>
 		</repository>
-        <snapshotrRepository>
+        <snapshotRepository>
 			<id>nexus-snapshots</id>
             <url>http://192.168.1.34:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
